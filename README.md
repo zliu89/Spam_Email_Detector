@@ -1,4 +1,5 @@
 # Spam_Email_Detector
+- see Finalwriteup.pdf for detail.
 ### Introduction:
 This program is build with python, the related modules used in this project including CountVectorize, TfidfVectorize, SelectKBest, BernoulliNB, LogisticRegression, RandomForestClassifier and metrics in Sklearn.
 * Conducted Data cleaning and feature selection using python modules including numpy and pandas
